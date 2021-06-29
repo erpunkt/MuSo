@@ -1,0 +1,316 @@
+.mediaViewInfo {
+	--web-view-name: XMap View2 – 7;
+	--web-view-id: XMap_View2__7;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: XMap_View2__7;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.XMap_View2__7_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: XMap View2 – 7;
+	--web-view-id: XMap_View2__7;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.ICON_MuSo_Class {
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 195.623px;
+	top: 428.296px;
+	overflow: visible;
+}
+.ICON_MuSo__Class {
+	fill: rgba(20,28,100,1);
+}
+.ICON_MuSo_ {
+	overflow: visible;
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ICON_MuSo_ba_Class {
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 202.12px;
+	top: 638.3px;
+	overflow: visible;
+}
+.ICON_MuSo_bb_Class {
+	fill: rgba(160,177,28,1);
+}
+.ICON_MuSo_bb {
+	overflow: visible;
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ICON_MuSo_bc_Class {
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 259.301px;
+	top: 258.296px;
+	overflow: visible;
+}
+.ICON_MuSo_bd_Class {
+	fill: rgba(158,70,154,1);
+}
+.ICON_MuSo_bd {
+	overflow: visible;
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ICON_MuSo_be_Class {
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 79.301px;
+	top: 193.148px;
+	overflow: visible;
+}
+.ICON_MuSo_bf_Class {
+	fill: rgba(179,30,29,1);
+}
+.ICON_MuSo_bf {
+	overflow: visible;
+	position: absolute;
+	width: 51.175px;
+	height: 101.704px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-user-alt_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 380px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Profil__2;
+	cursor: pointer;
+}
+.Icon_awesome-user-alt_bh_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt_bh {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Komponente_19__1_Class {
+	position: absolute;
+	width: 226px;
+	height: 81px;
+	left: 101px;
+	top: 813px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Creating_2__6;
+	cursor: pointer;
+}
+.Rechteck_38_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_38 {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 81px;
+	left: 0px;
+	top: 0px;
+}
+.EDIT_Class {
+	left: 171px;
+	top: 830px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(230,230,230,1);
+}
+.ID10__Class {
+	left: 129px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.ID13__Class {
+	left: 244px;
+	top: 420px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.ID15__Class {
+	left: 256px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_feather-edit-2_Class {
+	fill: transparent;
+	stroke: rgba(132,132,132,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_feather-edit-2 {
+	overflow: visible;
+	position: absolute;
+	width: 32.743px;
+	height: 32.743px;
+	left: 277.257px;
+	top: 838.629px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_map-location-arrow_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_map-location-arrow {
+	overflow: visible;
+	position: absolute;
+	width: 31.823px;
+	height: 33.056px;
+	transform: matrix(1,0,0,1,198.0887,755.0001) rotate(-38deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome-arrow-alt-circle-_Class {
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Create_or_View_Map;
+	cursor: pointer;
+}
+.Icon_awesome-arrow-alt-circle-_br_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-arrow-alt-circle-_br {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.XMap_View2__7_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

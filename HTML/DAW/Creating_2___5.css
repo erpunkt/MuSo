@@ -1,0 +1,1233 @@
+.mediaViewInfo {
+	--web-view-name: Creating 2 – 5;
+	--web-view-id: Creating_2__5;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Creating_2__5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Creating_2__5_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: Creating 2 – 5;
+	--web-view-id: Creating_2__5;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Icon_awesome-play_Class {
+	position: absolute;
+	width: 27.961px;
+	height: 31.957px;
+	left: 199.02px;
+	top: 228.543px;
+	overflow: visible;
+}
+.Icon_awesome-play__Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-play_ {
+	overflow: visible;
+	position: absolute;
+	width: 27.961px;
+	height: 31.957px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-rewind_Class {
+	position: absolute;
+	width: 31.493px;
+	height: 18.003px;
+	left: 156.926px;
+	top: 235.52px;
+	overflow: visible;
+}
+.Icon_ionic-ios-rewind_bb_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_ionic-ios-rewind_bb {
+	overflow: visible;
+	position: absolute;
+	width: 31.493px;
+	height: 18.002px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-rewind_bc_Class {
+	position: absolute;
+	width: 31.493px;
+	height: 18.003px;
+	left: 237.581px;
+	top: 235.52px;
+	overflow: visible;
+}
+.Icon_ionic-ios-rewind_bd_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_ionic-ios-rewind_bd {
+	overflow: visible;
+	position: absolute;
+	width: 31.493px;
+	height: 18.003px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Komponente_22__4_Class {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 382px;
+	top: 231px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: X_CreatingREC;
+	cursor: pointer;
+}
+.Ellipse_5_Class {
+	fill: rgba(240,134,134,1);
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 25px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome-cut_Class {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 49.425px;
+	top: 232.021px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Cut;
+	cursor: pointer;
+}
+.Icon_awesome-cut_bh_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-cut_bh {
+	overflow: visible;
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.metronome_icon_136407_Class {
+	position: absolute;
+	width: 33px;
+	height: 34px;
+	left: 342px;
+	top: 227px;
+	overflow: visible;
+}
+.metronome_icon_136407_bj_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 33px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Icon_material-delete-forever_Class {
+	position: absolute;
+	width: 21px;
+	height: 27px;
+	left: 18px;
+	top: 230px;
+	overflow: visible;
+}
+.Icon_material-delete-forever_bl_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_material-delete-forever_bl {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_28_Class {
+	fill: rgba(8,8,8,1);
+}
+.Rechteck_28 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 33px;
+	left: 33px;
+	top: 312px;
+}
+.Rechteck_29_Class {
+	fill: rgba(112,112,112,1);
+}
+.Rechteck_29 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 36px;
+	left: 62px;
+	top: 364px;
+}
+.Rechteck_33_Class {
+	fill: rgba(5,5,5,1);
+}
+.Rechteck_33 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 36px;
+	left: 306px;
+	top: 364px;
+}
+.Rechteck_30_Class {
+	fill: rgba(8,8,8,1);
+}
+.Rechteck_30 {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 36px;
+	left: 123px;
+	top: 364px;
+}
+.Rechteck_34_Class {
+	fill: rgba(5,5,5,1);
+}
+.Rechteck_34 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 36px;
+	left: 367px;
+	top: 364px;
+}
+.Rechteck_31_Class {
+	fill: rgba(5,5,5,1);
+}
+.Rechteck_31 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 36px;
+	left: 183px;
+	top: 328px;
+}
+.Rechteck_32_Class {
+	fill: rgba(5,5,5,1);
+}
+.Rechteck_32 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 33px;
+	left: 244px;
+	top: 312px;
+}
+.Ellipse_6_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 43px;
+	left: 101px;
+	top: 13px;
+}
+.Ellipse_7_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 43px;
+	left: 162px;
+	top: 13px;
+}
+.Ellipse_8_Class {
+	fill: rgba(216,216,216,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 43px;
+	left: 223px;
+	top: 13px;
+}
+.Ellipse_9_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(2,2,2,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 43px;
+	left: 284px;
+	top: 13px;
+}
+.Rechteck_35_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_35 {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 81px;
+	left: 102px;
+	top: 96px;
+}
+.DROP_Class {
+	left: 138px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(230,230,230,1);
+}
+.Gruppe_2_Class {
+	position: absolute;
+	width: 30.663px;
+	height: 64.26px;
+	left: 270.074px;
+	top: 104.37px;
+	overflow: visible;
+}
+.Icon_material-location-on_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 17.24px;
+	height: 24.628px;
+	left: 0px;
+	top: 39.632px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_ionic-ios-musical-note {
+	overflow: visible;
+	position: absolute;
+	width: 30.031px;
+	height: 52.887px;
+	left: 0.632px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_Class {
+	fill: rgba(28,28,28,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 6.95px;
+	height: 6.95px;
+	left: 5.293px;
+	top: 45.305px;
+}
+.Rechteck_33_b_Class {
+	fill: rgba(112,112,112,1);
+}
+.Rechteck_33_b {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 36px;
+	left: 275px;
+	top: 418px;
+}
+.Rechteck_33_ca_Class {
+	fill: rgba(112,112,112,1);
+}
+.Rechteck_33_ca {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 36px;
+	left: 184px;
+	top: 436px;
+}
+.Rechteck_33_cb_Class {
+	fill: rgba(112,112,112,1);
+}
+.Rechteck_33_cb {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 36px;
+	left: 123px;
+	top: 436px;
+}
+.Icon_feather-save_Class {
+	position: absolute;
+	width: 34px;
+	height: 35px;
+	left: 380px;
+	top: 20px;
+	overflow: visible;
+}
+.Pfad_1_Class {
+	fill: transparent;
+	stroke: rgba(132,132,132,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Pfad_1 {
+	overflow: visible;
+	position: absolute;
+	width: 37px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Pfad_2_Class {
+	fill: transparent;
+	stroke: rgba(132,132,132,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Pfad_2 {
+	overflow: visible;
+	position: absolute;
+	width: 25px;
+	height: 15px;
+	left: 6px;
+	top: 23px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Pfad_3_Class {
+	fill: transparent;
+	stroke: rgba(132,132,132,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Pfad_3 {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 10.5px;
+	left: 8.8px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-guitar_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-guitar {
+	overflow: visible;
+	position: absolute;
+	width: 24.548px;
+	height: 21.207px;
+	left: 110.226px;
+	top: 23.397px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_metro-piano_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-piano {
+	overflow: visible;
+	position: absolute;
+	width: 23.016px;
+	height: 13px;
+	left: 172.492px;
+	top: 27.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Gruppe_14_Class {
+	position: absolute;
+	width: 39px;
+	height: 21.419px;
+	left: 224.5px;
+	top: 23.082px;
+	overflow: visible;
+}
+.Linie_15_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_15 {
+	overflow: visible;
+	position: absolute;
+	width: 23.756px;
+	height: 18.193px;
+	left: 16.427px;
+	top: 4.837px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_11_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_11 {
+	width: 7.707px;
+	height: 3.012px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-224.073px, -24.663px) matrix(1,0,0,1,234.9208,26.7162) rotate(38deg);
+	transform-origin: center;
+}
+.Linie_16_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16 {
+	overflow: visible;
+	position: absolute;
+	width: 27.394px;
+	height: 16.333px;
+	left: 0px;
+	top: 4.837px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12 {
+	width: 7.412px;
+	height: 3.012px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-224.073px, -24.663px) matrix(1,0,0,1,248.3131,27.1615) rotate(151deg);
+	transform-origin: center;
+}
+.Bild_1_Class {
+	position: absolute;
+	width: 28px;
+	height: 28px;
+	left: 292px;
+	top: 19px;
+	overflow: visible;
+}
+.Rechteck_27_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_27 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 253px;
+	left: 0px;
+	top: 293px;
+}
+.Linie_1_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_1 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 252.504px;
+	left: 61.5px;
+	top: 293.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_2_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_2 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 252.504px;
+	left: 122.5px;
+	top: 293.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_3_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_3 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 252.504px;
+	left: 183.5px;
+	top: 293.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_4_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 252.5px;
+	left: 244.5px;
+	top: 293.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_5_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_5 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 252.504px;
+	left: 305.5px;
+	top: 293.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_6_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_6 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 252.5px;
+	left: 366.5px;
+	top: 293.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_9_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_9 {
+	overflow: visible;
+	position: absolute;
+	width: 425px;
+	height: 1px;
+	left: 2.5px;
+	top: 364px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_11_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_11 {
+	overflow: visible;
+	position: absolute;
+	width: 425px;
+	height: 1px;
+	left: 2.5px;
+	top: 436px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_13_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_13 {
+	overflow: visible;
+	position: absolute;
+	width: 425px;
+	height: 1px;
+	left: 3px;
+	top: 508px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_8_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_8 {
+	overflow: visible;
+	position: absolute;
+	width: 425px;
+	height: 1px;
+	left: 2.5px;
+	top: 328px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_10_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_10 {
+	overflow: visible;
+	position: absolute;
+	width: 425px;
+	height: 1px;
+	left: 2.5px;
+	top: 400px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Linie_12_Class {
+	fill: transparent;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_12 {
+	overflow: visible;
+	position: absolute;
+	width: 425px;
+	height: 1px;
+	left: 2.5px;
+	top: 472px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_4_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_4 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 1px;
+	top: 726px;
+}
+.Rechteck_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_19 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 123px;
+	top: 726px;
+}
+.Rechteck_21_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_21 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 245px;
+	top: 726px;
+}
+.Rechteck_17_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_17 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 62px;
+	top: 726px;
+}
+.Rechteck_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_18 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 184px;
+	top: 726px;
+}
+.Rechteck_20_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_20 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 306px;
+	top: 726px;
+}
+.Rechteck_22_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_22 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 367px;
+	top: 726px;
+}
+.Rechteck_46_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_46 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 200px;
+	left: 0px;
+	top: 726px;
+}
+.Rechteck_47_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_47 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 200px;
+	left: 123px;
+	top: 726px;
+}
+.Rechteck_48_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_48 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 200px;
+	left: 245px;
+	top: 726px;
+}
+.Rechteck_49_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_49 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 200px;
+	left: 62px;
+	top: 726px;
+}
+.Rechteck_50_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_50 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 200px;
+	left: 184px;
+	top: 726px;
+}
+.Rechteck_51_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_51 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 200px;
+	left: 306px;
+	top: 726px;
+}
+.Rechteck_52_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(28,28,28,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_52 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 200px;
+	left: 367px;
+	top: 726px;
+}
+.Rechteck_53_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_53 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	height: 178px;
+	left: 31px;
+	top: 566px;
+}
+.Rechteck_54_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_54 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 178px;
+	left: 214px;
+	top: 566px;
+}
+.Rechteck_55_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_55 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 178px;
+	left: 91px;
+	top: 566px;
+}
+.Rechteck_56_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_56 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 178px;
+	left: 275px;
+	top: 566px;
+}
+.Rechteck_57_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_57 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	height: 178px;
+	left: 336px;
+	top: 566px;
+}
+.Icon_material-replay-30_Class {
+	position: absolute;
+	width: 24px;
+	height: 30px;
+	left: 86px;
+	top: 229px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Replay;
+	cursor: pointer;
+}
+.Icon_material-replay-30_df_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_material-replay-30_df {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-arrow-alt-circle-_Class {
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 20px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Map_View_3__7;
+	cursor: pointer;
+}
+.Icon_awesome-arrow-alt-circle-_dh_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-arrow-alt-circle-_dh {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Creating_2__5_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

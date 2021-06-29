@@ -1,0 +1,520 @@
+.mediaViewInfo {
+	--web-view-name: E-Mail ändern;
+	--web-view-id: E-Mail_ndern;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: E-Mail_ndern;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.E-Mail_ndern_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: E-Mail ändern;
+	--web-view-id: E-Mail_ndern;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Icon_ionic-ios-arrow-down_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	left: 315.384px;
+	top: 637.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_1_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_1 {
+	filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 201px;
+	left: 123px;
+	top: 54px;
+}
+.Icon_awesome-user-alt_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt {
+	overflow: visible;
+	position: absolute;
+	width: 81.972px;
+	height: 86.256px;
+	left: 173.014px;
+	top: 101.872px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-arrow-alt-circle-_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-arrow-alt-circle- {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 21px;
+	top: 19.125px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-arrow-alt-circle-_bc_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-arrow-alt-circle-_bc {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 20px;
+	top: 20px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_3_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 710.751px;
+}
+.Account_lschen_Class {
+	left: 137px;
+	top: 726.751px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Rechteck_3_bf_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bf {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 615px;
+}
+.Lieblingsinstrument_Class {
+	left: 124px;
+	top: 631px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bh_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bh {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	transform: matrix(1,0,0,1,315.3837,637.2485) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rechteck_3_bi_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bi {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 330px;
+}
+.Benutzername_Class {
+	left: 146px;
+	top: 346px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bk_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bk {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	transform: matrix(1,0,0,1,315.3836,352.2485) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rechteck_3_bl_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bl {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 425px;
+}
+.Passwort_Class {
+	left: 173px;
+	top: 441px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bn_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bn {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	transform: matrix(1,0,0,1,315.3837,447.2485) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rechteck_130_Class {
+	opacity: 0.497;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_130 {
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	height: 926px;
+	left: -1px;
+	top: 0px;
+}
+.Rechteck_126_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_126 {
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 313px;
+	left: 64px;
+	top: 548px;
+}
+.Rechteck_129_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_129 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 590px;
+}
+.Rechteck_128_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_128 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 670px;
+}
+.Rechteck_127_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_127 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 731px;
+}
+.Komponente_46__3_Class {
+	position: absolute;
+	width: 256px;
+	height: 56px;
+	left: 86px;
+	top: 793px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Name_und_Passwort_ndern__1;
+	cursor: pointer;
+}
+.Rechteck_120_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_120 {
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Alte_E-Mail_Class {
+	left: 160px;
+	top: 605px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Neue_E-Mail_Class {
+	left: 154px;
+	top: 685px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Neue_E-Mail_bx_Class {
+	left: 154px;
+	top: 746px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Speichern_Class {
+	left: 168px;
+	top: 808px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Rechteck_3_bz_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bz {
+	filter: drop-shadow(0px 5px 5px rgba(255, 255, 255, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 71px;
+	left: 77px;
+	top: 519.751px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Name_und_Passwort_ndern__1;
+	cursor: pointer;
+}
+.E-Mail_Class {
+	left: 181px;
+	top: 535.751px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_b_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_b {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	left: 315.384px;
+	top: 542px;
+	transform: matrix(1,0,0,1,0,0);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.E-Mail_ndern_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

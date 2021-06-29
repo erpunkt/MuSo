@@ -1,0 +1,612 @@
+.mediaViewInfo {
+	--web-view-name: Map View – 5;
+	--web-view-id: Map_View__5;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Map_View__5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Map_View__5_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: Map View – 5;
+	--web-view-id: Map_View__5;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Gruppe_40_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 80.6px;
+	top: 193.148px;
+	overflow: visible;
+}
+.Icon_material-location-on_Class {
+	fill: rgba(179,30,29,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_Class {
+	fill: rgba(179,30,29,1);
+}
+.Icon_ionic-ios-musical-note {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_Class {
+	fill: rgba(28,28,28,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.Gruppe_39_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 260.6px;
+	top: 258.296px;
+	overflow: visible;
+}
+.Gruppe_3_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Icon_material-location-on_be_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_material-location-on_be {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_bf_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_ionic-ios-musical-note_bf {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_bg_Class {
+	fill: rgba(44,45,47,1);
+}
+.Ellipse_10_bg {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.Icon_material-location-on_bh_Class {
+	fill: rgba(158,70,154,1);
+}
+.Icon_material-location-on_bh {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_bi_Class {
+	fill: rgba(158,70,154,1);
+}
+.Icon_ionic-ios-musical-note_bi {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_bj_Class {
+	fill: rgba(28,28,28,1);
+}
+.Ellipse_10_bj {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.Gruppe_38_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 195.6px;
+	top: 428.296px;
+	overflow: visible;
+}
+.Gruppe_6_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Icon_material-location-on_bm_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_material-location-on_bm {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_bn_Class {
+	fill: rgba(0,0,0,1);
+}
+.Icon_ionic-ios-musical-note_bn {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_bo_Class {
+	fill: rgba(44,45,47,1);
+}
+.Ellipse_10_bo {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.Icon_material-location-on_bp_Class {
+	fill: rgba(20,28,100,1);
+}
+.Icon_material-location-on_bp {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_bq_Class {
+	fill: rgba(20,28,100,1);
+}
+.Icon_ionic-ios-musical-note_bq {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_br_Class {
+	fill: rgba(28,28,28,1);
+}
+.Ellipse_10_br {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.ID10__Class {
+	left: 128.977px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.ID13__Class {
+	left: 243.977px;
+	top: 420px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.ID15__Class {
+	left: 255.977px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.ICON_MuSo_Class {
+	fill: rgba(132,132,132,1);
+}
+.ICON_MuSo {
+	overflow: visible;
+	position: absolute;
+	width: 51.61px;
+	height: 102.57px;
+	left: 201.544px;
+	top: 638.43px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-user-alt_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 380px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Profil__2;
+	cursor: pointer;
+}
+.Icon_awesome-user-alt_bx_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt_bx {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_38_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_38 {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 81px;
+	left: 101px;
+	top: 813px;
+}
+.DROP_Class {
+	left: 156px;
+	top: 827px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(230,230,230,1);
+}
+.Rechteck_39_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_39 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 78px;
+	left: 90px;
+	top: 426px;
+}
+.Choose_Genre_Class {
+	left: 103px;
+	top: 433px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(230,230,230,1);
+}
+.Icon_map-location-arrow_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_map-location-arrow {
+	overflow: visible;
+	position: absolute;
+	width: 31.823px;
+	height: 33.056px;
+	transform: matrix(1,0,0,1,198.0887,755.0001) rotate(-38deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Komponente_64__2_Class {
+	position: absolute;
+	width: 121px;
+	height: 44px;
+	left: 90px;
+	top: 503px;
+	overflow: visible;
+}
+.Rechteck_135_Class {
+	opacity: 0.689;
+	fill: rgba(237,21,21,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_135 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+}
+.Hip_Hop_Class {
+	opacity: 0.694;
+	left: 21px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Komponente_65__2_Class {
+	position: absolute;
+	width: 121px;
+	height: 44px;
+	left: 90px;
+	top: 546px;
+	overflow: visible;
+}
+.Rechteck_136_Class {
+	opacity: 0.689;
+	fill: rgba(208,81,203,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_136 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+}
+.Pop_Class {
+	opacity: 0.694;
+	left: 21px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Komponente_63__2_Class {
+	position: absolute;
+	width: 121px;
+	height: 44px;
+	left: 90px;
+	top: 589px;
+	overflow: visible;
+}
+.Rechteck_137_Class {
+	opacity: 0.689;
+	fill: rgba(6,19,123,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_137 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+}
+.Rock_Class {
+	opacity: 0.694;
+	left: 21px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Komponente_62__2_Class {
+	position: absolute;
+	width: 121px;
+	height: 44px;
+	left: 90px;
+	top: 632px;
+	overflow: visible;
+}
+.Komponente_61__1_Class {
+	position: absolute;
+	width: 121px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rechteck_138_Class {
+	opacity: 0.689;
+	fill: rgba(209,234,19,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_138 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+}
+.Elektro_Class {
+	opacity: 0.694;
+	left: 21px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Map_View__5_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

@@ -1,0 +1,456 @@
+.mediaViewInfo {
+	--web-view-name: Registrierung;
+	--web-view-id: Registrierung;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Registrierung;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Registrierung_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: Registrierung;
+	--web-view-id: Registrierung;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rechteck_1_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_1 {
+	filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 201px;
+	left: 123px;
+	top: 54px;
+}
+.Rechteck_2_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_2 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 49px;
+	left: 77px;
+	top: 379px;
+}
+.Whle_einen_Benutzernamen_Class {
+	left: 82px;
+	top: 391px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Gruppe_19_Class {
+	position: absolute;
+	width: 134.265px;
+	height: 101.704px;
+	left: 148.368px;
+	top: 94.148px;
+	overflow: visible;
+}
+.Gruppe_18_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 85.735px;
+	top: 0px;
+	overflow: visible;
+}
+.Icon_material-location-on_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_ionic-ios-musical-note {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_Class {
+	fill: rgba(28,28,28,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.MuS_Class {
+	left: 0px;
+	top: 50.852px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(230,230,230,1);
+}
+.Gruppe_22_Class {
+	position: absolute;
+	width: 274px;
+	height: 49px;
+	left: 77px;
+	top: 714px;
+	overflow: visible;
+}
+.Rechteck_74_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_74 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+.Wiederhole_dein_Passwort_Class {
+	left: 18px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Komponente_55__1_Class {
+	position: absolute;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 781px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Login__1;
+	cursor: pointer;
+}
+.Rechteck_69_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_69 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Registrieren_Class {
+	left: 160px;
+	top: 797px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Gruppe_24_Class {
+	position: absolute;
+	width: 274px;
+	height: 49px;
+	left: 77px;
+	top: 580px;
+	overflow: visible;
+}
+.Rechteck_72_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_72 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+.Geburtsdatum_Class {
+	left: 72px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Gruppe_25_Class {
+	position: absolute;
+	width: 274px;
+	height: 49px;
+	left: 77px;
+	top: 513px;
+	overflow: visible;
+}
+.Rechteck_71_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_71 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+.Wohnort_Class {
+	left: 98px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Gruppe_23_Class {
+	position: absolute;
+	width: 274px;
+	height: 49px;
+	left: 77px;
+	top: 647px;
+	overflow: visible;
+}
+.Rechteck_73_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_73 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+.Whle_ein_Passwort_Class {
+	left: 49px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Beim_klick_auf_Registrieren_ak_Class {
+	left: 51px;
+	top: 859px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(230,230,230,1);
+}
+.Rechteck_76_Class {
+	fill: rgba(52,52,52,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_76 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 49px;
+	left: 77px;
+	top: 446px;
+}
+.E-Mail_Adresse_Class {
+	left: 144px;
+	top: 458px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_awesome-user-alt_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt {
+	overflow: visible;
+	position: absolute;
+	width: 68.521px;
+	height: 63.02px;
+	left: 179.74px;
+	top: 275.98px;
+	transform: matrix(1,0,0,1,0,0);
+}
+._Class {
+	left: 269px;
+	top: 795px;
+	position: absolute;
+	overflow: hidden;
+	width: 14px;
+	height: 20px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Registrierung_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

@@ -1,0 +1,547 @@
+.mediaViewInfo {
+	--web-view-name: XSelect Instrument – 2X – 1;
+	--web-view-id: XSelect_Instrument__2X__1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: XSelect_Instrument__2X__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.XSelect_Instrument__2X__1_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: XSelect Instrument – 2X – 1;
+	--web-view-id: XSelect_Instrument__2X__1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Icon_awesome-user-alt_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 380px;
+	top: 20px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Profil__2;
+	cursor: pointer;
+}
+.Icon_awesome-user-alt__Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt_ {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Komponente_59__1_Class {
+	position: absolute;
+	width: 239px;
+	height: 56px;
+	left: 95px;
+	top: 764px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: X_Creating__1;
+	cursor: pointer;
+}
+.Rechteck_2_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_2 {
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Weiter_Class {
+	left: 186px;
+	top: 780px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Whle_ein_Instrument_aus_Class {
+	left: 75px;
+	top: 128px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Komponente_60__1_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 46px;
+	top: 291px;
+	overflow: visible;
+}
+.Ellipse_1_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 152px;
+	left: 0px;
+	top: 0px;
+}
+.Komponente_60__2_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 231px;
+	top: 291px;
+	overflow: visible;
+}
+.Ellipse_1_bh_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bh {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 152px;
+	left: 0px;
+	top: 0px;
+}
+.Komponente_60__3_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 231px;
+	top: 483px;
+	overflow: visible;
+}
+.Ellipse_1_bj_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bj {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 152px;
+	left: 0px;
+	top: 0px;
+}
+.Gitarre_Class {
+	left: 91px;
+	top: 355px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Klavier_Class {
+	left: 275px;
+	top: 355px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Icon_awesome-guitar_Class {
+	opacity: 0.159;
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-guitar {
+	overflow: visible;
+	position: absolute;
+	width: 76.379px;
+	height: 81.508px;
+	left: 83.811px;
+	top: 326.246px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Marimba_Class {
+	left: 265px;
+	top: 547px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Icon_metro-piano_Class {
+	opacity: 0.16;
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-piano {
+	overflow: visible;
+	position: absolute;
+	width: 91.97px;
+	height: 53.396px;
+	left: 261.015px;
+	top: 340.802px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Komponente_14__1_Class {
+	position: absolute;
+	width: 152px;
+	height: 153px;
+	left: 46px;
+	top: 483px;
+	overflow: visible;
+}
+.Ellipse_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_18 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 0px;
+	top: 0px;
+}
+.Percussion_Class {
+	left: 28px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Gruppe_32_Class {
+	opacity: 0.16;
+	position: absolute;
+	width: 62.831px;
+	height: 64.342px;
+	left: 44.584px;
+	top: 43.829px;
+	overflow: visible;
+}
+.Gruppe_15_Class {
+	position: absolute;
+	width: 58.912px;
+	height: 41.458px;
+	left: 0px;
+	top: 7.063px;
+	overflow: visible;
+}
+.Linie_16_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16 {
+	overflow: visible;
+	position: absolute;
+	width: 50.664px;
+	height: 35.979px;
+	left: 0px;
+	top: 8.795px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12 {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-80.5px, -518.042px) matrix(1,0,0,1,125.1866,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Gruppe_16_Class {
+	transform: translate(-80.5px, -510.979px) matrix(1,0,0,1,89.2494,522.421) rotate(263deg);
+	transform-origin: center;
+	position: absolute;
+	width: 59.735px;
+	height: 41.458px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Linie_16_bx_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16_bx {
+	overflow: visible;
+	position: absolute;
+	width: 41.885px;
+	height: 54.671px;
+	left: 10.107px;
+	top: 11.223px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_by_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12_by {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-497.091px, 207.376px) matrix(1,0,0,1,126.0094,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Ellipse_4_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 0px;
+	top: 1px;
+}
+.Percussion_b_Class {
+	left: 28px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Bild_1_Class {
+	opacity: 0.16;
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 271px;
+	top: 523px;
+	overflow: visible;
+}
+.Gruppe_37_Class {
+	opacity: 0.16;
+	position: absolute;
+	width: 62.831px;
+	height: 64.342px;
+	left: 89.584px;
+	top: 531px;
+	overflow: visible;
+}
+.Gruppe_15_b_Class {
+	position: absolute;
+	width: 58.912px;
+	height: 41.458px;
+	left: 0px;
+	top: 7.063px;
+	overflow: visible;
+}
+.Linie_16_b_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16_b {
+	overflow: visible;
+	position: absolute;
+	width: 50.664px;
+	height: 35.979px;
+	left: 0px;
+	top: 8.795px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_b_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12_b {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-80.5px, -518.042px) matrix(1,0,0,1,125.1866,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Gruppe_16_b_Class {
+	transform: translate(-80.5px, -510.979px) matrix(1,0,0,1,89.2494,522.421) rotate(263deg);
+	transform-origin: center;
+	position: absolute;
+	width: 59.735px;
+	height: 41.458px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Linie_16_ca_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16_ca {
+	overflow: visible;
+	position: absolute;
+	width: 41.885px;
+	height: 54.671px;
+	left: 10.107px;
+	top: 11.223px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_ca_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12_ca {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-497.091px, 207.376px) matrix(1,0,0,1,126.0094,520.805) rotate(151deg);
+	transform-origin: center;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.XSelect_Instrument__2X__1_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

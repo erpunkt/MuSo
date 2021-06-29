@@ -1,0 +1,762 @@
+.mediaViewInfo {
+	--web-view-name: Lieblingsinstrument ändern;
+	--web-view-id: Lieblingsinstrument_ndern;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Lieblingsinstrument_ndern;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Lieblingsinstrument_ndern_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: Lieblingsinstrument ändern;
+	--web-view-id: Lieblingsinstrument_ndern;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Icon_awesome-arrow-alt-circle-_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-arrow-alt-circle- {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 20px;
+	top: 20px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_1_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_1 {
+	filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 201px;
+	left: 123px;
+	top: 54px;
+}
+.Icon_awesome-user-alt_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt {
+	overflow: visible;
+	position: absolute;
+	width: 81.972px;
+	height: 86.256px;
+	left: 173.014px;
+	top: 101.872px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-arrow-alt-circle-_bb_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-arrow-alt-circle-_bb {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.875px;
+	left: 21px;
+	top: 19.125px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_3_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 710.751px;
+}
+.Account_lschen_Class {
+	left: 137px;
+	top: 726.751px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Rechteck_3_be_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_be {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 519.751px;
+}
+.E-Mail_Class {
+	left: 181px;
+	top: 535.751px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	transform: matrix(1,0,0,1,315.3837,542) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rechteck_3_bh_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bh {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 330px;
+}
+.Benutzername_Class {
+	left: 146px;
+	top: 346px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bj_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bj {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	transform: matrix(1,0,0,1,315.3836,352.2485) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rechteck_3_bk_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bk {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 425px;
+}
+.Passwort_Class {
+	left: 173px;
+	top: 441px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bm_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_bm {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	transform: matrix(1,0,0,1,315.3837,447.2485) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rechteck_131_Class {
+	opacity: 0.497;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_131 {
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ionic-ios-arrow-down_br_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_br {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	left: 315.384px;
+	top: 637.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rechteck_3_bp_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3_bp {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 56px;
+	left: 77px;
+	top: 615px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Name_und_Passwort_ndern__1;
+	cursor: pointer;
+}
+.Lieblingsinstrument_Class {
+	left: 124px;
+	top: 631px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_br_Class {
+	fill: rgba(230,230,230,1);
+}
+.Icon_ionic-ios-arrow-down_br {
+	overflow: visible;
+	position: absolute;
+	width: 23.616px;
+	height: 13.503px;
+	left: 315.384px;
+	top: 637.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_18 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 46px;
+	top: 453px;
+}
+.Percussion_Class {
+	left: 74px;
+	top: 517px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Gruppe_32_Class {
+	opacity: 0.16;
+	position: absolute;
+	width: 62.831px;
+	height: 64.342px;
+	left: 90.584px;
+	top: 496.829px;
+	overflow: visible;
+}
+.Gruppe_15_Class {
+	position: absolute;
+	width: 58.912px;
+	height: 41.458px;
+	left: 0px;
+	top: 7.063px;
+	overflow: visible;
+}
+.Linie_16_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16 {
+	overflow: visible;
+	position: absolute;
+	width: 50.664px;
+	height: 35.979px;
+	left: 0px;
+	top: 8.794px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12 {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-80.5px, -518.042px) matrix(1,0,0,1,125.1866,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Gruppe_16_Class {
+	transform: translate(-80.5px, -510.979px) matrix(1,0,0,1,89.2494,522.421) rotate(263deg);
+	transform-origin: center;
+	position: absolute;
+	width: 59.735px;
+	height: 41.458px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Linie_16_bz_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16_bz {
+	overflow: visible;
+	position: absolute;
+	width: 41.885px;
+	height: 54.671px;
+	left: 10.107px;
+	top: 11.224px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_b_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12_b {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-497.091px, 207.376px) matrix(1,0,0,1,126.0094,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Komponente_49__1_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 46px;
+	top: 454px;
+	overflow: visible;
+}
+.Ellipse_4_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 0px;
+	top: 0px;
+}
+.Komponente_49__3_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 231px;
+	top: 262px;
+	overflow: visible;
+}
+.Ellipse_4_b_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_b {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 0px;
+	top: 0px;
+}
+.Percussion_b_Class {
+	left: 74px;
+	top: 518px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Gruppe_17_Class {
+	opacity: 0.16;
+	position: absolute;
+	width: 62.831px;
+	height: 64.342px;
+	left: 90.584px;
+	top: 497.829px;
+	overflow: visible;
+}
+.Gruppe_15_b_Class {
+	position: absolute;
+	width: 58.912px;
+	height: 41.458px;
+	left: 0px;
+	top: 7.063px;
+	overflow: visible;
+}
+.Linie_16_b_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16_b {
+	overflow: visible;
+	position: absolute;
+	width: 50.664px;
+	height: 35.979px;
+	left: 0px;
+	top: 8.794px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_ca_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12_ca {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-80.5px, -518.042px) matrix(1,0,0,1,125.1866,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Gruppe_16_ca_Class {
+	transform: translate(-80.5px, -510.979px) matrix(1,0,0,1,89.2494,522.421) rotate(263deg);
+	transform-origin: center;
+	position: absolute;
+	width: 59.735px;
+	height: 41.458px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Linie_16_cb_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linie_16_cb {
+	overflow: visible;
+	position: absolute;
+	width: 41.885px;
+	height: 54.671px;
+	left: 10.107px;
+	top: 11.224px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_12_cc_Class {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12_cc {
+	width: 13.287px;
+	height: 7.308px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-497.091px, 207.376px) matrix(1,0,0,1,126.0094,520.805) rotate(151deg);
+	transform-origin: center;
+}
+.Komponente_48__1_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 231px;
+	top: 454px;
+	overflow: visible;
+}
+.Ellipse_25_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_25 {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 152px;
+	left: 0px;
+	top: 0px;
+}
+.Marimba_Class {
+	left: 34px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Bild_3_Class {
+	opacity: 0.16;
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 40px;
+	top: 40px;
+	overflow: visible;
+}
+.Komponente_49__2_Class {
+	position: absolute;
+	width: 152px;
+	height: 152px;
+	left: 46px;
+	top: 262px;
+	overflow: visible;
+}
+.Ellipse_4_ci_Class {
+	fill: rgba(216,216,216,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_ci {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 170px;
+	left: 0px;
+	top: 0px;
+}
+.Gitarre_Class {
+	left: 91px;
+	top: 326px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Icon_awesome-guitar_Class {
+	opacity: 0.159;
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-guitar {
+	overflow: visible;
+	position: absolute;
+	width: 76.379px;
+	height: 81.507px;
+	left: 83.811px;
+	top: 297.247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Klavier_Class {
+	left: 275px;
+	top: 326px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Icon_metro-piano_Class {
+	opacity: 0.16;
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-piano {
+	overflow: visible;
+	position: absolute;
+	width: 91.97px;
+	height: 53.396px;
+	left: 261.015px;
+	top: 311.802px;
+	transform: matrix(1,0,0,1,0,0);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Lieblingsinstrument_ndern_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}

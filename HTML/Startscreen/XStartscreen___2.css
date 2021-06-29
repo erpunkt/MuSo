@@ -1,0 +1,267 @@
+.mediaViewInfo {
+	--web-view-name: XStartscreen – 2;
+	--web-view-id: XStartscreen__2;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: XStartscreen__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.XStartscreen__2_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(28,28,28,1);
+	overflow: hidden;
+	--web-view-name: XStartscreen – 2;
+	--web-view-id: XStartscreen__2;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-add-image-compare: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rechteck_1_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_1 {
+	filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 201px;
+	left: 123px;
+	top: 54px;
+}
+.Die_Idee__-_Whle_ein_Instrumen_Class {
+	left: 34px;
+	top: 287px;
+	position: absolute;
+	overflow: visible;
+	width: 361px;
+	height: 329px;
+	text-align: left;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Icon_awesome-user-alt_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_awesome-user-alt {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 196px;
+	top: 715px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Komponente_51__1_Class {
+	position: absolute;
+	width: 239px;
+	height: 56px;
+	left: 95px;
+	top: 764px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Login__1;
+	cursor: pointer;
+}
+.Rechteck_2_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_2 {
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Komponente_51__2_Class {
+	position: absolute;
+	width: 239px;
+	height: 56px;
+	left: 95px;
+	top: 834px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Registrierung;
+	cursor: pointer;
+}
+.Rechteck_2_be_Class {
+	fill: rgba(28,28,28,1);
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_2_be {
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Einloggen_Class {
+	left: 167px;
+	top: 780px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Registrieren_Class {
+	left: 160px;
+	top: 849px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(230,230,230,1);
+}
+.Gruppe_19_Class {
+	position: absolute;
+	width: 134.265px;
+	height: 101.704px;
+	left: 148.368px;
+	top: 94.148px;
+	overflow: visible;
+}
+.Gruppe_18_Class {
+	position: absolute;
+	width: 48.529px;
+	height: 101.704px;
+	left: 85.735px;
+	top: 0px;
+	overflow: visible;
+}
+.Icon_material-location-on_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 27.285px;
+	height: 38.979px;
+	left: 0px;
+	top: 62.725px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_ionic-ios-musical-note_Class {
+	fill: rgba(132,132,132,1);
+}
+.Icon_ionic-ios-musical-note {
+	overflow: visible;
+	position: absolute;
+	width: 47.529px;
+	height: 83.704px;
+	left: 1px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_10_Class {
+	fill: rgba(28,28,28,1);
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 11px;
+	left: 8.377px;
+	top: 71.704px;
+}
+.MuS_Class {
+	left: 0px;
+	top: 50.852px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(230,230,230,1);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.XStartscreen__2_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0;
+	top: 0;
+}
