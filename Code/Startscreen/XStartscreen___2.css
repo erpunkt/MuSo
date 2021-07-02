@@ -8,6 +8,10 @@
 	--web-application: true;
 	--web-enable-deep-linking: true;
 }
+
+a:link{
+text-decoration: none;
+}
 :root {
 	--web-view-ids: XStartscreen__2;
 }
