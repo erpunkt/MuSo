@@ -8,6 +8,65 @@
 	--web-application: true;
 	--web-enable-deep-linking: true;
 }
+
+
+/* Dropdown */
+
+
+
+.dropdownbtn{
+	background-color:rgba(28,28,28,1);
+	color: rgba(230,230,230,1);
+	cursor: pointers;
+	position: absolute;
+	width: 274px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	border-style: solid;
+	border: 5px;
+	border-color: rgba(216,216,216,1);
+	border-radius: 1px;
+}
+
+
+
+.dropdown {
+background-color:rgba(28,28,28,1);
+border: 5px;
+border-color: rgba(216,216,216,1);
+border-radius: 1px;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+  }
+
+.dropdown-content a:hover {
+	  opacity: 1,8;
+	}
+
+.dropdown:hover .dropdown-content {
+		display: block;
+	  }
+
+
+.Benutzername_Class {
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coco Gothic;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(230,230,230,1);
+	}
+
+
 :root {
 	--web-view-ids: Name_und_Passwort_ndern__1;
 }
@@ -255,41 +314,12 @@
 	--web-action-target: Name_ndern;
 	cursor: pointer;
 }
-.Rechteck_3_bm_Class {
-	fill: rgba(28,28,28,1);
-	stroke: rgba(216,216,216,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rechteck_3_bm {
-	position: absolute;
-	overflow: visible;
-	width: 274px;
-	height: 56px;
-	left: 0px;
-	top: 0px;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: view;
-	--web-action-target: Name_ndern;
-	cursor: pointer;
-}
-.Benutzername_Class {
-	left: 146px;
-	top: 346px;
-	position: absolute;
-	overflow: visible;
-	width: 135px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Coco Gothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(230,230,230,1);
-}
+
+
+
+
+
+
 .Icon_ionic-ios-arrow-down_bo_Class {
 	fill: rgba(230,230,230,1);
 }
