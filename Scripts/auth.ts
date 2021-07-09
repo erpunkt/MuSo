@@ -1,4 +1,4 @@
-const signupForm: Element = document.querySelector("#signup-form");
+let signupForm: HTMLElement = document.querySelector("#signup-form");
 signupForm?.addEventListener("submit", (e) => {
 e.preventDefault();
 
