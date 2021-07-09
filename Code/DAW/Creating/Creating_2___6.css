@@ -8,6 +8,11 @@
 	--web-application: true;
 	--web-enable-deep-linking: true;
 }
+
+button {
+background-color: rgba(28,28,28,1);
+}
+
 :root {
 	--web-view-ids: Creating_2__6;
 }

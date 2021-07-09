@@ -9,6 +9,10 @@
 	--web-enable-deep-linking: true;
 }
 
+button {
+background-color: rgba(28,28,28,1);
+
+}
 
 /* Dropdown */
 
