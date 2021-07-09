@@ -8,6 +8,12 @@
 	--web-application: true;
 	--web-enable-deep-linking: true;
 }
+
+/* button{
+
+	background-color: rgba(28,28,28,1);
+} */
+
 :root {
 	--web-view-ids: X_Creating__1;
 }
@@ -663,6 +669,7 @@
 	top: 45.305px;
 }
 .Icon_feather-save_Class {
+	background-color: rgba(28,28,28,1);
 	position: absolute;
 	width: 34px;
 	height: 35px;
@@ -1465,12 +1472,14 @@
 	transform: matrix(1,0,0,1,0,0);
 }
 .Icon_awesome-arrow-alt-circle-_Class {
+	background-color: rgba(28,28,28,1);
 	position: absolute;
 	width: 34.875px;
 	height: 34.875px;
 	left: 20px;
 	top: 20px;
 	overflow: visible;
+	cursor: pointer;
 }
 .Icon_awesome-arrow-alt-circle-_dy_Class {
 	fill: rgba(132,132,132,1);

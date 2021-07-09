@@ -43,22 +43,67 @@ border-radius: 1px;
 }
 
 .dropdown-content {
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
 	display: none;
 	position: absolute;
-	background-color: #f9f9f9;
-	min-width: 160px;
-	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	overflow: visible;
+	background-color: rgba(28,28,28,1);
+	width: 274px;
+	height: 56px;
 	z-index: 1;
+	fill: none;
+	stroke: rgba(216,216,216,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	left: 77px;
+    top: 380px;
   }
 
+  input[type=text]{
+	color: rgba(230,230,230,1);
+	font-family: Coco Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	background-color: rgba(28,28,28,1);
+ } 
+
+
 .dropdown-content a:hover {
-	  opacity: 1,8;
+	  opacity: 1;
 	}
 
 .dropdown:hover .dropdown-content {
 		display: block;
 	  }
 
+	  .Rechteck_3_bm_Class {
+		fill: none;
+		stroke: rgba(216,216,216,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rechteck_3_bm {
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		height: 56px;
+		left: 0px;
+		top: 0px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: Name_ndern;
+		cursor: pointer;
+	}
 
 .Benutzername_Class {
 		white-space: nowrap;
@@ -358,6 +403,9 @@ border-radius: 1px;
 	--web-action-target: Passwort_ndern;
 	cursor: pointer;
 }
+
+
+
 .Passwort_Class {
 	left: 173px;
 	top: 441px;
